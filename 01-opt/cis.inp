@@ -1,0 +1,3 @@
+! wB97X-D3 def2-TZVP TightOpt
+%pal nprocs 8 end
+* xyzfile 0 1 cis.xyz
