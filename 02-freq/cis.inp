@@ -1,0 +1,3 @@
+! wB97X-D3 def2-TZVP DefGrid3 VeryTightSCF Freq
+%pal nprocs 8 end
+* xyzfile 0 1 ../01-opt/cis.xyz
