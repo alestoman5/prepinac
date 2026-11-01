@@ -19,10 +19,15 @@ pathways and excited states. Student project, UCT Prague (VŠCHT).
 
 | Stage | Status | Contents |
 |---|---|---|
-| [`01-opt/`](01-opt/) | in progress | trans/cis geometry optimization, ωB97X-D3/def2-TZVP |
+| [`01-opt/`](01-opt/) | done | trans/cis geometry optimization, ωB97X-D3/def2-TZVP, DefGrid3 |
+| [`02-freq/`](02-freq/) | done | frequencies (no imaginary modes), relative stability |
+| [`03-scan/`](03-scan/) | done | relaxed scans: CNNC torsion and CNN inversion, lower envelope |
+| [`04-isomerization/`](04-isomerization/) | done | isomerization energies: B3LYP/6-31G*, PM6 (MOPAC) |
 
 The procedure for each stage (commands in order) is in its `NOTES.md`.
 
 ## Requirements
 
 - [ORCA 6.1.1](https://orcaforum.kofo.mpg.de/) (academic license, not redistributable)
+- [MOPAC 23.2.5](https://github.com/openmopac/mopac) (conda-forge, `mopac` environment)
+- Python with numpy and matplotlib (`scripts/`)
