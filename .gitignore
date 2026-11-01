@@ -16,6 +16,7 @@
 *.err
 *_trj.xyz
 *.bibtex
+*.cis
 
 # Python
 __pycache__/
@@ -26,3 +27,6 @@ __pycache__/
 
 # Old DefGrid2 runs (kept locally, superseded by DefGrid3)
 archive_defgrid2/
+
+# Orbital cube files (regenerable from the inputs)
+*.cube

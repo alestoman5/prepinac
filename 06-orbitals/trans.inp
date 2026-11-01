@@ -1,0 +1,18 @@
+! ZINDO/S
+%cis nroots 2 end
+%output print[p_mos] 1 end
+%plots
+  dim1 50 dim2 50 dim3 50
+  Format Gaussian_Cube
+  MO("trans_mo29.cube",29,0);
+  MO("trans_mo30.cube",30,0);
+  MO("trans_mo31.cube",31,0);
+  MO("trans_mo32.cube",32,0);
+  MO("trans_mo33.cube",33,0);
+  MO("trans_mo34.cube",34,0);
+  MO("trans_mo35.cube",35,0);
+  MO("trans_mo36.cube",36,0);
+  MO("trans_mo37.cube",37,0);
+  MO("trans_mo38.cube",38,0);
+end
+* xyzfile 0 1 trans.xyz
