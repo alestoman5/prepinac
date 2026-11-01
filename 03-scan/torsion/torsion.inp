@@ -1,0 +1,4 @@
+! wB97X-D3 def2-TZVP DefGrid3 VeryTightSCF Opt
+%pal nprocs 6 end
+%geom Scan D 2 0 1 13 = 180, 0, 37 end end
+* xyzfile 0 1 ../../01-opt/trans.xyz
