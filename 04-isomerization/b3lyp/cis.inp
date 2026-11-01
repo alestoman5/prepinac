@@ -1,0 +1,3 @@
+! B3LYP 6-31G* DefGrid3 TightOpt Freq
+%pal nprocs 8 end
+* xyzfile 0 1 cis.xyz

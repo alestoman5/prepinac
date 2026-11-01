@@ -1,0 +1,66 @@
+
+
+                     SUMMARY OF  PM6 CALCULATION
+
+                                                       MOPAC v23.2.5 Linux
+                                                       Sun Nov  1 21:52:17 2026
+
+           Empirical Formula: C12 H10 N2  =    24 atoms
+
+ PM6 1SCF SCFCRT=1.D-7
+ cis-azobenzene displaced by 0.30 A along the lowest mode
+
+
+
+     1SCF WAS SPECIFIED, SO BFGS WAS NOT USED                 
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =         94.91581 KCAL/MOL =     397.12776 KJ/MOL
+          DIPOLE                  =          3.61006 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          IONIZATION POTENTIAL    =          9.145804 EV
+          HOMO LUMO ENERGIES (EV) =         -9.146 -0.760
+          MOLECULAR WEIGHT        =        182.2244
+          COSMO AREA              =        217.97 SQUARE ANGSTROMS
+          COSMO VOLUME            =        230.40 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+            H    22    H    12     9.30667
+            H     9    H    11     4.89864
+            H    23    N     1     4.69736
+          SCF CALCULATIONS        =          1
+          WALL-CLOCK TIME         =      0.023 SECONDS
+          COMPUTATION TIME        =      0.041 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM6 1SCF SCFCRT=1.D-7
+ cis-azobenzene displaced by 0.30 A along the lowest mode
+
+  N    -0.61279779 +1  -1.91278675 +1  -0.16742212 +1
+  N     0.60429874 +1  -1.91240463 +1  -0.08393076 +1
+  C    -1.51297675 +1  -0.77758639 +1  -0.16493307 +1
+  C    -1.46140908 +1   0.19599169 +1  -1.18208755 +1
+  C    -2.51775329 +1  -0.74966030 +1   0.81939655 +1
+  C    -2.42494956 +1   1.20313275 +1  -1.20702011 +1
+  H    -0.68317820 +1   0.16126828 +1  -1.94577001 +1
+  C    -3.46721811 +1   0.27149012 +1   0.78671103 +1
+  H    -2.55679810 +1  -1.52029141 +1   1.59384896 +1
+  C    -3.42331457 +1   1.24449767 +1  -0.22390992 +1
+  H    -2.39650323 +1   1.95972379 +1  -1.99595039 +1
+  H    -4.24829768 +1   0.30429105 +1   1.54858912 +1
+  H    -4.16951842 +1   2.03463131 +1  -0.24685846 +1
+  C     1.50728546 +1  -0.78208112 +1   0.07354669 +1
+  C     2.77803003 +1  -0.89257787 +1  -0.58949718 +1
+  C     1.20068716 +1   0.32430822 +1   0.91367438 +1
+  C     3.73228724 +1   0.11785745 +1  -0.41791197 +1
+  H     3.01040525 +1  -1.76410111 +1  -1.22771191 +1
+  C     2.17000688 +1   1.32224652 +1   1.08479038 +1
+  H     0.21912139 +1   0.40313013 +1   1.43506251 +1
+  C     3.43127330 +1   1.22362631 +1   0.41770593 +1
+  H     4.71774633 +1   0.04124681 +1  -0.93234078 +1
+  H     1.93998596 +1   2.18042745 +1   1.73964611 +1
+  H     4.18230956 +1   2.00541201 +1   0.55091977 +1
+
